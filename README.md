@@ -64,23 +64,9 @@ Desenvolvedor com experiência na **criação, manutenção e evolução de sist
 
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
-| [**Discord Lookup Tool**](https://github.com/Paulouuul/discord-lookup) | Python, FastAPI, Redis, Docker |• Desenvolvimento de ferramenta CLI e API REST utilizando Python e FastAPI para consulta de usuários do Discord
-• Suporte a 7 formatos de saída (JSON, CSV, YAML, HTML, XML, MD, Table)
-• Processamento em lote (batch) com barra de progresso
-• API com FastAPI, documentação Swagger e cache Redis
-• Containerização com Docker (CLI + API + Redis)
-• CI/CD com GitHub Actions (testes automatizados)
-• Publicado no PyPI (pip install discord-lookup)
- [Publicado no PyPI](https://pypi.org/project/discord-lookup/) |
-| [**Jogo de Damas**](https://github.com/Paulouuul/projetoDama) | Java, JDBC, MVC, DAO | para a lógica do tabuleiro e movimentação das peças. 
-• Implementação da arquitetura MVC (Model-View-Controller) para garantir o baixo acoplamento entre a lógica de jogo e a interface gráfica.
-• Persistência de dados utilizando o padrão DAO (Data Access Object) com JDBC para gerenciamento de ranking e histórico de jogadores em banco de dados relacional.
-• Interface gráfica (GUI) desenvolvida com WindowBuilder, com foco em interatividade e renderização dinâmica do estado do tabuleiro.
-• Lógica de jogo robusta incluindo validação de movimentos, captura de peças e gerenciamento de turnos.
- |
-| [**Gerenciamento de Finanças**](https://github.com/Paulouuul/projetoFinancas) | Python, Kivy, Pandas, Matplotlib | • Sistema completo para controle financeiro pessoal com cadastro de despesas, ganhos e categorias. 
-• Gráficos filtrados por período e categoria.
-• Arquitetura modular com múltiplas telas e uso de DataFrames para processamento eficiente dos dados via Pandas e Matplotlib. |
+| [**Discord Lookup Tool**](https://github.com/Paulouuul/discord-lookup) | Python, FastAPI, Redis, Docker | CLI e API REST para consulta de usuários do Discord. Suporte a 7 formatos de saída, cache Redis, CI/CD com GitHub Actions. [Publicado no PyPI](https://pypi.org/project/discord-lookup/) |
+| [**Jogo de Damas**](https://github.com/Paulouuul/projetoDama) | Java, JDBC, MVC, DAO | Sistema completo com lógica de jogo robusta, GUI com WindowBuilder e persistência de ranking/histórico |
+| [**Gerenciamento de Finanças**](https://github.com/Paulouuul/projetoFinancas) | Python, Kivy, Pandas, Matplotlib | Controle financeiro pessoal com gráficos dinâmicos e arquitetura modular |
 
 ---
 
