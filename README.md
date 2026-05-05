@@ -14,7 +14,7 @@ Desenvolvedor com experiência na **criação, manutenção e evolução de sist
 
 🎓 **Bacharelando em Sistemas de Informação** (Unilasalle RJ) – Previsão de conclusão: 07/2026
 
-⚡ **TCC em andamento:** Sistema de votação seguro e descentralizado com **Blockchain, Solidity, Ethereum e MetaMask**
+⚡ **TCC:** Sistema de votação seguro e descentralizado com **Blockchain, Solidity, Ethereum e MetaMask**
 
 ---
 
