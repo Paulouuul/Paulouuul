@@ -101,16 +101,6 @@ BonitaSoft, Java/Groovy, APIs REST, AngularJS, PostgreSQL, Docker, Jenkins, SSO 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulouuul&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulouuul&layout=compact&theme=dark&hide=html,css)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paulouuul&theme=dark)
-
----
-
 ### 📫 Vamos conversar?
 
 Estou sempre aberto a novos desafios, colaborações em projetos open source e oportunidades profissionais.
