@@ -14,7 +14,7 @@ Desenvolvedor com experiência na **criação, manutenção e evolução de sist
 
 🎓 **Bacharelando em Sistemas de Informação** (Unilasalle RJ) – Previsão de conclusão: 07/2026
 
-⚡ **TCC:** [**Sistema de votação seguro e descentralizado com **Blockchain, Solidity, Ethereum e MetaMask**]([https://github.com/Paulouuul/discord-lookup](https://github.com/Paulouuul/projeto-tcc-blockchain))
+⚡ **TCC:** [**Sistema de votação seguro e descentralizado com **Blockchain, Solidity, Ethereum e MetaMask**](https://github.com/Paulouuul/projeto-tcc-blockchain)
 
 ---
 
