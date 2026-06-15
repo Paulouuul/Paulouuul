@@ -97,7 +97,7 @@ Desenvolvedor com experiência na **criação, manutenção e evolução de sist
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
 | [**Discord Lookup Tool**](https://github.com/Paulouuul/discord-lookup) | Python, FastAPI, Redis, Docker | CLI e API REST para consulta de usuários do Discord. Suporte a 7 formatos de saída, cache Redis, CI/CD com GitHub Actions. [Publicado no PyPI](https://pypi.org/project/discord-lookup/) |
-| [**Jogo de Damas**](https://github.com/Paulouuul/projetoDama) | Java, JDBC, MVC, DAO | Sistema completo com lógica de jogo robusta, GUI com WindowBuilder e persistência de ranking/histórico |
+| [**Jogo de Damas**](https://github.com/Paulouuul/jogo-damas-swing-desktop) | Java, JDBC, MVC, DAO | Sistema completo com lógica de jogo robusta, GUI com WindowBuilder e persistência de ranking/histórico |
 | [**Gerenciamento de Finanças**](https://github.com/Paulouuul/projetoFinancas) | Python, Kivy, Pandas, Matplotlib | Controle financeiro pessoal com gráficos dinâmicos e arquitetura modular |
 
 ---
