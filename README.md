@@ -10,9 +10,10 @@
 
 ### 💻 Sobre mim
 
-Desenvolvedor com experiência na **criação, manutenção e evolução de sistemas completos**, atuando tanto no back-end quanto no front-end. Tenho vivência no desenvolvimento de **APIs REST**, implementação de regras de negócio, integração entre sistemas e construção de interfaces funcionais e bem estruturadas.
+Desenvolvedor com experiência em desenvolvimento, sustentação e integração de sistemas completos utilizando Java, Spring Boot, Python, FastAPI, Node.js, React e Next.js.
+Atuação em backend, frontend, APIs REST, bancos de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, Redis), containers Docker, orquestração Kubernetes e pipelines CI/CD (Jenkins, GitHub Actions). Experiência no desenvolvimento de aplicações escaláveis, integrações corporativas, automação e ambientes cloud (AWS, Railway). 
 
-🎓 **Bacharelando em Sistemas de Informação** (Unilasalle RJ) – Previsão de conclusão: 07/2026
+🎓 **Bacharelado em Sistemas de Informação** (Unilasalle RJ) – Início:01/2022 Conclusão:07/2026
 
 ⚡ **TCC:** [Sistema de votação seguro e descentralizado com **Blockchain, Solidity, Ethereum e MetaMask**](https://github.com/Paulouuul/projeto-tcc-blockchain)
 
